@@ -1,0 +1,13 @@
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\obj\Debug\netcoreapp3.1\Excersices2Udemy.csproj.AssemblyReference.cache
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\obj\Debug\netcoreapp3.1\Excersices2Udemy.AssemblyInfoInputs.cache
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\obj\Debug\netcoreapp3.1\Excersices2Udemy.AssemblyInfo.cs
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\obj\Debug\netcoreapp3.1\Excersices2Udemy.csproj.CoreCompileInputs.cache
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\bin\Debug\netcoreapp3.1\Excersices2Udemy.exe
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\bin\Debug\netcoreapp3.1\Excersices2Udemy.deps.json
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\bin\Debug\netcoreapp3.1\Excersices2Udemy.runtimeconfig.json
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\bin\Debug\netcoreapp3.1\Excersices2Udemy.runtimeconfig.dev.json
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\bin\Debug\netcoreapp3.1\Excersices2Udemy.dll
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\bin\Debug\netcoreapp3.1\Excersices2Udemy.pdb
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\obj\Debug\netcoreapp3.1\Excersices2Udemy.dll
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\obj\Debug\netcoreapp3.1\Excersices2Udemy.pdb
+C:\Users\carlo\academyMakingSense\Excersices2Udemy\Excersices2Udemy\obj\Debug\netcoreapp3.1\Excersices2Udemy.genruntimeconfig.cache
